@@ -34,7 +34,7 @@ Outcome of these tutorial will gonna look like this
 
 - Increase the radius of the hole of the portal in SDF Circle patch to 0.1 or any number you desire in your project
 
-![5.8]()
+![5.8](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/5.8.JPG)
 
 - Import 3D Model from AR Library and search **Low Poly Mountain Scene** in search pop up from **AR Library Window**. Then click button import
 ![6](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/6.JPG)
