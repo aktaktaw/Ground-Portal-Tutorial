@@ -3,6 +3,7 @@ A tutorial on how to create a plane ground portal AR with Spark AR
 
 # Overview
 Outcome of these tutorial will gonna look like this
+
 ![overview-tutorial](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/overview-tutorial.gif)
 
 # Requirements
@@ -13,6 +14,9 @@ Outcome of these tutorial will gonna look like this
 # To start the project
 - Open Spark AR and choose **Object Reveal Template**
 ![Spark AR Main Menu](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/1.JPG)
+
+- Next it'll show a basic template of the project
+![Spark AR Project Scene](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/2.JPG)
 
 
 
