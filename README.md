@@ -16,12 +16,15 @@ Outcome of these tutorial will gonna look like this
 ![Spark AR Main Menu](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/1.JPG)
 
 - Next it'll show a basic template of the project
+
 ![Spark AR Project Scene](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/2.JPG)
 
 - Then delete the unwanted for this object like the higlight in the **Scene Panel** and **Asset Panel**
+
 ![Scene Panel to delete](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/3.JPG)
 
 - Open your Patch Editor to delete the unwanted patch node like shown below:
+
 ![5.1](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/5.1.JPG)
 ![5.2](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/5.2.JPG)
 ![5.3](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/5.3.JPG)
@@ -29,7 +32,8 @@ Outcome of these tutorial will gonna look like this
 ![5.5](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/5.5.JPG)
 ![5.6](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/5.6.JPG)
 
-- Increase the radius of the hole of the portal in SDF Circle patch to 0.9 or any desire of your project
+- Increase the radius of the hole of the portal in SDF Circle patch to 0.1 or any number you desire in your project
+
 ![5.8]()
 
 - Import 3D Model from AR Library and search **Low Poly Mountain Scene** in search pop up from **AR Library Window**. Then click button import
@@ -37,18 +41,22 @@ Outcome of these tutorial will gonna look like this
 ![7.1](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.1.JPG)
 
 - Once success import the 3D Model, drag and drop the **Low Poly Mountain Scene** into Scene Panel. By default your 3D Model inserted inside Focal Distance at Camera > focal Distance > [Your 3D Object]. Unchild it by simply click and drag your 3D model outside from Camera like show below
+
 ![7.2.4](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.4.JPG)
 
 - Scale up your3D Hole to 2.5 in **Y-Axis**
+
 ![7.2.7](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.7.JPG)
 
 - Scale down your 3D model to 0.005 for **X**, **Y** and **Z** in **Properties Panel**
-![7.2.7.1](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.7.JPG)
+
+![7.2.7.1](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.7.1JPG)
 
 - Move your **Low Poly Mountain Scene** to align with **Hole Cylinder** like shown below:
- ![7.2.6](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.6.JPG)
+
+![7.2.6](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.6.JPG)
 
 # Basically, you're done
 To test out your project, connect your phone with USB cable to your computer and click button "Test on Device"
 
-![7.3]()
+![7.3](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.3.JPG)
