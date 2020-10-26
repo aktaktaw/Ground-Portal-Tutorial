@@ -50,7 +50,7 @@ Outcome of these tutorial will gonna look like this
 
 - Scale down your 3D model to 0.005 for **X**, **Y** and **Z** in **Properties Panel**
 
-![7.2.7.1](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.7.1JPG)
+![7.2.7.1](https://github.com/aktaktaw/Ground-Portal-Tutorial/blob/main/screenshot-tutorial/7.2.7.1.JPG)
 
 - Move your **Low Poly Mountain Scene** to align with **Hole Cylinder** like shown below:
 
